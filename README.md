@@ -1,17 +1,12 @@
-# jupy
-Example of of Jupyter Notebook setup <!--- test a comment here -->
 
-Base code courtesy of https://github.com/jperkel/example_notebook
-
-# Example Jupyter notebook with Binder & Colab integration
-
+# Jupyter notebook with Binder & Colab integration
 
 
 [//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD) OR >
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hawk327/jupy/blob/428jupyter01.ipynb)
 
-
+Base code courtesy of https://github.com/jperkel/example_notebook
 
 This simple [Jupyter](https://jupyter.org/) notebook demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
 
