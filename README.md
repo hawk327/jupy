@@ -1,5 +1,5 @@
 # jupy
-First trial of Jupyter Notebook setup <!--- test a comment here -->
+Example of of Jupyter Notebook setup <!--- test a comment here -->
 
 # Example Jupyter notebook with Binder <!--- & Colab integration -->
 
@@ -7,7 +7,7 @@ First trial of Jupyter Notebook setup <!--- test a comment here -->
 
 [//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD) OR >
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD)
-<!--- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/) %update this -->
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/)
 
 
 
