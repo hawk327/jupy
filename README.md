@@ -4,7 +4,7 @@
 
 [//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD) OR >
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hawk327/jupy/blob/428jupyter01.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hawk327/jupy/blob/main/428jupyter01.ipynb)
 
 
 
